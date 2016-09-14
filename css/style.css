@@ -1,0 +1,81 @@
+/* header section starts */
+.head_wrap {
+  padding:15px 0;
+  background: #f1f1f1;
+  position:fixed;
+  width:100%;
+  z-index:999;
+}
+.mobile_menu {
+  display:none;
+}
+.desk_menu ul li {
+  padding:0 15px;
+}
+/* header ends starts */
+
+/* body content starts */
+
+.body_full {
+  margin-top: 60px;
+  float: left;
+  width: 100%;
+}
+.section_wrapper1,
+.section_wrapper2,
+.section_wrapper3,
+.section_wrapper4 {
+  min-height:510px;
+  padding:25px 0;
+}
+
+/* section one starts */
+.section_wrapper1 {
+  background:#008fd5;
+  color:#fff;
+}
+/* section one ends */
+
+/* section two starts */
+.section_wrapper2 {
+  background:red;
+  color:#fff;
+}
+/* section two ends */
+
+/* section three starts */
+.section_wrapper3 {
+  background:#008fd5;
+  color:#fff;
+}
+/* section three ends */
+
+/* section four starts */
+.section_wrapper4 {
+  background: #f7ab24;
+  color: #000;
+}
+.section_wrapper4 .form-control {
+  height:50px;
+  border-radius:0;
+}
+#message.form-control {
+  height:150px;
+  resize: none;
+}
+
+/* section four ends */
+
+/* body content ends */
+
+/* footer starts here */
+.foot_wrap {
+  background: #000;
+  color: #fff;
+  padding: 25px 0 10px;
+  width: 100%;
+  float: left;
+}
+/* footer ends here */
+
+

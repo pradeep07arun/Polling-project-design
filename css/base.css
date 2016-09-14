@@ -1,0 +1,23 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+img {
+  max-width:100%;
+}
+a,
+a:hover,
+a:focus {
+  text-decoration:none;
+}
+h1 {
+  font-size:36px;
+  margin:15px 0;
+}
+h2 {
+  font-size:30px;
+  margin:15px 0;
+}
+
+/* default class starts */
+
+/* default class ends */
